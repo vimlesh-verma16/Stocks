@@ -7,10 +7,6 @@ Scalping
  
 ```
 
-## Crypto Scalping:
-Time frame:  15 min  
-USE 200 MA when above plan bullish buying   
-Strategy : https://www.youtube.com/watch?v=q28aAHANDeU&t=409s 
 
 
 
