@@ -10,5 +10,10 @@ Time frame: 3m and Best time frame for making decision for entry exit: 5m
 
 
 
+# Commodity 
+Top liquid contracts: 
+Best in India: Crude Oil | Natural Gas | Gold | Silver
+
+
 
 
